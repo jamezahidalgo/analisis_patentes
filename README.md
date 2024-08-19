@@ -1,4 +1,4 @@
-# analisis_patentes
+# Análisis_patentes
 
 Proyecto con la Dirección de aprendizaje y experiencia digital de DuocUC
 
