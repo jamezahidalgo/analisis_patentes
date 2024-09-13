@@ -57,5 +57,14 @@
     	"nombre" : "Tecnologías de impresión 3d",
     	"terminos":["3d"]
     }
-]
+],
+"terminos_excluyentes" : 
+["data mining", 
+"blockchain mining", 
+"mining transaction", 
+"transaction",
+"transactional",
+"pattern mining", 
+"information mining", 
+"word mining"]
 }
