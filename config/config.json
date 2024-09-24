@@ -66,5 +66,35 @@
 "transactional",
 "pattern mining", 
 "information mining", 
-"word mining"]
+"word mining"],
+"tecnologias":
+[
+  "sensor",
+"machine learning",
+"iot",
+"internet of things", 
+"ai",
+"artificial intelligence", 
+"simulation",
+"simulator",
+"digital twin",
+"digital twins",
+"virtual reality",
+"vr",
+"augmented reality",
+"ar",
+"robot",
+"robotic",
+"robotics",
+"3d",
+"smart",
+"data",
+"big data",
+"automation",
+"deep learning",
+"predictive",
+"system integration",
+"cloud",
+"blockchain"
+]
 }
